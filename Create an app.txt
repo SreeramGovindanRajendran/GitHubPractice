@@ -11,3 +11,5 @@ Steps to Create an app
 5. Add the audio format
 
 6. Add the video call feature
+
+7. Add the document feature

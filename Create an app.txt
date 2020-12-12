@@ -7,3 +7,5 @@ Steps to Create an app
 3. Create the backend code
 
 4. Modify the UI design
+
+5. Add the audio format

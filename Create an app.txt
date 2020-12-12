@@ -5,3 +5,5 @@ Steps to Create an app
 2. Create the database code
 
 3. Create the backend code
+
+4. Modify the UI design

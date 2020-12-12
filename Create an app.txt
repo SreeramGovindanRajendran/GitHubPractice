@@ -1,0 +1,7 @@
+Steps to Create an app
+
+1. Create the UI design
+
+2. Create the database code
+
+3. Create the backend code
